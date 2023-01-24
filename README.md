@@ -7,17 +7,17 @@ Solution Code Preview : [Click](https://devjewel01.github.io/web-programming/)
 
  **Lab Task 1:**
 
-- [ ]  Create a New HTML Page
-- [ ]  Add Paragraphs
-- [ ]  Make some content of paragraph Bold, Italic, and Underline
-- [ ]  Insert a hyperlink.
-- [ ]  Insert an image.
+- [X]  Create a New HTML Page
+- [X]  Add Paragraphs
+- [X]  Make some content of paragraph Bold, Italic, and Underline
+- [X]  Insert a hyperlink.
+- [X]  Insert an image.
 
 **Lab Task 2:**
 
-- [ ]  Apply Heading one, Heading three, and Heading five.
-- [ ]  Add Different Meta Tags.
-- [ ]  Create a Basic List with your educational details
-- [ ]  Add a background image for your html page.
-- [ ]  Add a Favicon in HTML.
+- [X]  Apply Heading one, Heading three, and Heading five.
+- [X]  Add Different Meta Tags.
+- [X]  Create a Basic List with your educational details
+- [X]  Add a background image for your html page.
+- [X]  Add a Favicon in HTML.
 
