@@ -1,4 +1,4 @@
-Solution Code Preview : [Click](https://devjewel01.github.io/web/)
+Solution Code Preview : [Click](https://devjewel01.github.io/web-programming/)
 
 
 ### Lab assignment - 1 (HTML/XHTML)
