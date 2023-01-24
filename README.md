@@ -1,6 +1,7 @@
-Solution Code Preview : [Click](https://jewel.cf/webTechnologyAndProgramming/Lab-01/)
+Solution Code Preview : [Click](https://devjewel01.github.io/web/)
 
-### Lab-01 (HTML/XHTML)
+
+### Lab assignment - 1 (HTML/XHTML)
 
 > The objective of this lab task is to learn how to implement a hyperlink and insert an image on a web page.
 
@@ -19,3 +20,4 @@ Solution Code Preview : [Click](https://jewel.cf/webTechnologyAndProgramming/Lab
 - [ ]  Create a Basic List with your educational details
 - [ ]  Add a background image for your html page.
 - [ ]  Add a Favicon in HTML.
+
